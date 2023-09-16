@@ -1,0 +1,141 @@
+@media screen and (min-width:1600px) {
+    .hero-img{
+        height: 1200px;
+    }
+
+    .know-me-line, .do-line, .touch-line, .resume-line, .work-line {
+        width: 175px;
+        left: 48%;
+    }
+
+    .do-line,.resume-line,.work-line,.touch-line{
+        width: 90px;
+        left: 49%;
+    }
+}
+@media screen and (max-width:1441px) {
+    .hero-img{
+        height: 900px;
+    }
+
+    .hero-text{
+        font-size: 40px;
+    }
+}
+@media  screen and (max-width:1024px){
+    .sidenav{
+        max-width:200px
+    }
+
+    .skills {
+        margin: 0px;
+    }
+    
+    .form-button {
+        width: 40%;
+    }        
+}
+@media screen and (max-width:991px){
+    .hero-img{
+        height: 880px;
+    }
+    .hero-text {
+        font-size: 45px;
+        width: 75%;
+        top: 50%;
+    }
+    .centered{
+        top: 42%;
+    }
+    .text{
+        font-size: 10vw;
+    }
+}
+@media screen and (max-width:768px) {
+    .menu-toggle{
+        display: block;
+    }
+    .right-side{
+        padding-top: 8rem;
+    }
+    .side-nav{
+        position: fixed;
+        top: 0;
+        left: -300px;
+        height: 100vh;
+        width: 100%;
+        max-width: 300px;
+        transition: 0.2s linear;
+    }
+
+    .hero-text {
+        font-size: 38px;
+    }
+
+    .largebox{
+        margin-left: 30px;
+    }
+
+    .year-box {
+        width: 40%;
+    }
+
+    .exp-year-box {
+        width: 60%;
+    }
+
+    .skills {
+        margin: 0px;
+    }
+
+    .form-button {
+        width: 40%;
+    }
+
+    .text {
+        font-size: 16vw;
+    }
+}
+
+@media screen and (max-width:426px) {
+    .right-skill, .left-skill {
+        width: 100% !important;
+    }
+    .hero-text {
+        font-size: 20px;
+        width: 60%;
+        top: 50%;
+    }
+
+    .hero-button {
+        top: 60%;
+    }
+
+    .arrow {
+        top: 90%;
+    }
+
+    .form-button {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:376px) {
+    .hero-img {
+        width: 113%;
+    }
+
+    .text {
+        font-size: 18vw;
+    }
+}
+
+@media screen and (max-width:321px) {
+    .hero-img {
+        width: 135%;
+    }
+
+    .sub-heading {
+        margin-top: -45px;
+    }
+}
