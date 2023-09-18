@@ -126,6 +126,16 @@
     .skills {
     padding: 0px 45px;
 }
+    .name {
+     margin-left: 0px;
+}
+
+    .name p span {
+    font-size: 20px;
+}
+    .button {
+    font-size: 18px;
+    }
 }
 
 @media screen and (max-width:376px) {
