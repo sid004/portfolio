@@ -514,7 +514,7 @@ p, li{
   
   /**hide-1**/
 
-  .hide-1:hover span{
+/*   .hide-1:hover span{
     display: none;
   }
   
@@ -523,11 +523,11 @@ p, li{
     font-weight: bold;
     color: #656565;
     float: right;
-  }
+  } */
 
   /**hide-2**/
   
-  .hide-2:hover span{
+/*   .hide-2:hover span{
     display: none;
   }
   
@@ -536,11 +536,11 @@ p, li{
     font-weight: bold;
     color: #656565;
     float: right;
-  }
+  } */
 
   /**hide-3**/
   
-  .hide-3:hover span{
+/*   .hide-3:hover span{
     display: none;
   }
   
@@ -549,11 +549,11 @@ p, li{
     font-weight: bold;
     color: #656565;
     float: right;
-  }
+  } */
 
   /**hide-4**/
   
-  .hide-4:hover span{
+/*   .hide-4:hover span{
     display: none;
   }
   
@@ -562,11 +562,11 @@ p, li{
     font-weight: bold;
     color: #656565;
     float: right;
-  }
+  } */
 
   /**hide-5**/
   
-  .hide-5:hover span{
+/*   .hide-5:hover span{
     display: none;
   }
   
@@ -575,11 +575,11 @@ p, li{
     font-weight: bold;
     color: #656565;
     float: right;
-  }
+  } */
 
   /**hide-6**/
   
-  .hide-6:hover span{
+/*   .hide-6:hover span{
     display: none;
   }
   
@@ -588,7 +588,7 @@ p, li{
     font-weight: bold;
     color: #656565;
     float: right;
-  }
+  } */
 
  .left-skill, .right-skill{
   width: 100%;
