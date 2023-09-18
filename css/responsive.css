@@ -122,6 +122,10 @@
     .My-Experience{
       margin-bottom: 25px !important;
     }
+
+    .skills {
+    padding: 0px 45px;
+}
 }
 
 @media screen and (max-width:376px) {
